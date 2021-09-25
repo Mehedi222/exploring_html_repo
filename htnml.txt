@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML BASIC</title>
+</head>
+
+<body>
+    <!-- this heading will be change in future -->
+    <h1>this is a heading</h1>
+    <p>this is a paragraph</p>
+    <p>lorem45</p>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+chapter_1
+
+about.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about</title>
+</head>
+
+<body>
+    <h1>this is about me</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe, tenetur. Corporis mollitia maiores excepturi,
+        fugit assumenda tempore aspernatur dolorum numquam iusto. Minima voluptatibus expedita architecto eos dolore
+        reiciendis saepe libero!</p>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+chapter_2
+
+index2.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring tag</title>
+    <link rel="icon" href="/favicoins.jpg" sizes="16x16">
+</head>
+
+<body>
+    <!-- heading,paragraph,hr and strong tag -->
+    <h1>list of books</h1>
+    <h2>list of books</h2>
+    <h3>list of books</h3>
+    <h4>list of books</h4>
+    <h5>list of books</h5>
+    <h6>list of books</h6>
+    <p>there <strong>are</strong> lot's of books to read</p>
+    <hr>
+
+    <!-- Example of absolute link -->
+    <a href="https://www.codewithharry.com/">harry notes</a>
+    <!-- Example of relative link -->
+    <a href="about.html">go to about</a><br>
+
+    <!-- Image tag -->
+    <!-- <img src="https://media.istockphoto.com/photos/-picture-id1333739575" alt="cycel img"> -->
+
+    <!-- bold,italic and underline -->
+    <b>this is bold</b>
+    <br>
+    <i>this is italic</i>
+    <br>
+    <u>this is underline</u>
+    <u>this is underline</u>
+    <br>
+
+    <!-- big and small tag -->
+    <big>this is big</big>
+    <small>this is small</small>
+
+    <!-- subscript and superscript -->
+    <p>co<sub>2</sub></p>
+    <p>ab<sup>2</sup>+bx+c</p>
+
+    <!-- pre tag -->
+    <pre>
+    # Python 3: Fibonacci series up to n
+    >>> def fib(n):
+    >>>     a, b = 0, 1
+    >>>     while a < n:
+    >>>         print(a, end=' ')
+    >>>         a, b = b, a+b
+    >>     print()
+    >>> fib(1000)
+    0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+    </pre>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chapter_3
+
+
+index3.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring tag</title>
+    <link rel="icon" href="/favicoins.jpg" sizes="16x16">
+</head>
+
+<body>
+    <!-- heading,paragraph,hr and strong tag -->
+    <h1>list of books</h1>
+    <h2>list of books</h2>
+    <h3>list of books</h3>
+    <h4>list of books</h4>
+    <h5>list of books</h5>
+    <h6>list of books</h6>
+    <p>there <strong>are</strong> lot's of books to read</p>
+    <hr>
+
+    <!-- Example of absolute link -->
+    <a href="https://www.codewithharry.com/">harry notes</a>
+    <!-- Example of relative link -->
+    <a href="about.html">go to about</a><br>
+
+    <!-- Image tag -->
+    <!-- <img src="https://media.istockphoto.com/photos/-picture-id1333739575" alt="cycel img"> -->
+
+    <!-- bold,italic and underline -->
+    <b>this is bold</b>
+    <br>
+    <i>this is italic</i>
+    <br>
+    <u>this is underline</u>git remote add origin https://github.com/Mehedi222/HTML.git
+    <u>this is underline</u>
+    <br>
+
+    <!-- big and small tag -->
+    <big>this is big</big>
+    <small>this is small</small>
+
+    <!-- subscript and superscript -->
+    <p>co<sub>2</sub></p>
+    <p>ab<sup>2</sup>+bx+c</p>
+
+    <!-- pre tag -->
+    <pre>
+    # Python 3: Fibonacci series up to n
+    >>> def fib(n):
+    >>>     a, b = 0, 1
+    >>>     while a < n:
+    >>>         print(a, end=' ')
+    >>>         a, b = b, a+b
+    >>     print()
+    >>> fib(1000)
+    0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+    </pre>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+form.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring tag</title>
+    <link rel="icon" href="/favicoins.jpg" sizes="16x16">
+</head>
+
+<body>
+    <!-- heading,paragraph,hr and strong tag -->
+    <h1>list of books</h1>
+    <h2>list of books</h2>
+    <h3>list of books</h3>
+    <h4>list of books</h4>
+    <h5>list of books</h5>
+    <h6>list of books</h6>
+    <p>there <strong>are</strong> lot's of books to read</p>
+    <hr>
+
+    <!-- Example of absolute link -->
+    <a href="https://www.codewithharry.com/">harry notes</a>
+    <!-- Example of relative link -->
+    <a href="about.html">go to about</a><br>
+
+    <!-- Image tag -->
+    <!-- <img src="https://media.istockphoto.com/photos/-picture-id1333739575" alt="cycel img"> -->
+
+    <!-- bold,italic and underline -->
+    <b>this is bold</b>
+    <br>
+    <i>this is italic</i>
+    <br>
+    <u>this is underline</u>
+    <u>this is underline</u>
+    <br>
+
+    <!-- big and small tag -->
+    <big>this is big</big>
+    <small>this is small</small>
+
+    <!-- subscript and superscript -->
+    <p>co<sub>2</sub></p>
+    <p>ab<sup>2</sup>+bx+c</p>
+
+    <!-- pre tag -->
+    <pre>
+    # Python 3: Fibonacci series up to n
+    >>> def fib(n):
+    >>>     a, b = 0, 1
+    >>>     while a < n:
+    >>>         print(a, end=' ')
+    >>>         a, b = b, a+b
+    >>     print()
+    >>> fib(1000)
+    0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+    </pre>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+chapter_4
+
+index4.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chapter_4</title>
+</head>
+
+<body>
+    <ul type="circle">
+        <li>home</li>
+        <li>about</li>
+        <li>services</li>
+        <li>contact</li>
+    </ul>
+    <ol type="I">
+        <li>home</li>
+        <li>about</li>
+        <li>services</li>
+        <li>contact</li>
+    </ol>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+table.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chapter_4</title>
+</head>
+
+<body>
+    <ul type="circle">
+        <li>home</li>
+        <li>about</li>
+        <li>services</li>
+        <li>contact</li>
+    </ul>
+    <ol type="I">
+        <li>home</li>
+        <li>about</li>
+        <li>services</li>
+        <li>contact</li>
+    </ol>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+video.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chapter_4</title>
+</head>
+
+<body>
+    <ul type="circle">
+        <li>home</li>
+        <li>about</li>
+        <li>services</li>
+        <li>contact</li>
+    </ul>
+    <ol type="I">
+        <li>home</li>
+        <li>about</li>
+        <li>services</li>
+        <li>contact</li>
+    </ol>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+chapter_5
+
+seo.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="If you write good articel then you are better SEO expert">
+    <title>SEO in 2022 : A beginner guide</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>home</li>
+                <li>about</li>
+                <li>contact me</li>
+                <li>services</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <div>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis necessitatibus, quaerat velit
+                accusantium iure error voluptatum! Consequuntur soluta ex explicabo nobis perferendis. Numquam sint
+                vero, consequatur debitis excepturi repellat nostrum?
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>
